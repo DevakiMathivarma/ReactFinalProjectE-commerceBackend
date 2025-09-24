@@ -56,7 +56,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
+    "https://react-final-project-e-commerce-fron.vercel.app",
 ]
 ALLOWED_HOSTS = ['*']
 STATIC_URL = '/static/'
